@@ -264,7 +264,6 @@ Replicating this project provided hands-on reinforcement of the following skills
 
 | Resource | Details |
 |---|---|
-| **Original Tutorial** | [Excel Dashboard for Portfolio \| Call Centre Report — Chandoo](https://www.youtube.com/watch?v=mYdM46FAQJY) — YouTube, published by Chandoo (Purna Duggirala) |
 | **Chandoo's Excel School** | [chandoo.org](https://chandoo.org) — comprehensive Excel and data analytics training program |
 | **Microsoft DAX Reference** | [learn.microsoft.com/en-us/dax](https://learn.microsoft.com/en-us/dax/) |
 | **Power Pivot Overview** | [Microsoft Support — Power Pivot](https://support.microsoft.com/en-us/office/power-pivot-overview-and-learning-f9001958-7901-4caa-ad80-028a6d2432ed) |
