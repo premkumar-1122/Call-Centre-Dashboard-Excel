@@ -136,10 +136,10 @@ All transformations are performed within Excel using calculated columns in the s
 ```
 📂 Call-Centre-Dashboard-Excel/
 │
-├── 📊 call-centre-report-dashboard-excel-portfolio-project.xlsx   ← Main workbook (dashboard + data)
-├── 📊 sample-data-excel-portfolio-project.xlsx                    ← Raw / blank starter workbook
-├── 🖼️  Dashboard.png                                              ← Static screenshot of the completed dashboard
-└── 📄 README.md                                                   ← This file
+├── 📊 call-centre-report.xlsx                     ← Main workbook (dashboard + data)
+├── 📊 sample-data.xlsx                            ← Raw / blank starter workbook
+├── 🖼️  Dashboard.png                              ← Static screenshot of the completed dashboard
+└── 📄 README.md                                   ← This file
 ```
 
 | File | Role |
